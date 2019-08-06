@@ -12,3 +12,4 @@ class projects extends Model
         return $this->hasMany('App\projects','project_id','ID');
     }
 }
+//commit

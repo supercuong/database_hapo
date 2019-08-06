@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f5d9f44-49d0-426a-905e-7ab1f50153e1" name="Default Changelist" comment="" />
+    <list default="true" id="8f5d9f44-49d0-426a-905e-7ab1f50153e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/customers.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Customers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/daily_reports.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Daily_reports.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/employess.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Employess.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/humans_project.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Humans_project.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/payroll.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Payroll.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/projects.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Projects.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +22,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -100,7 +112,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1OzSIx9rEukdxcHuvPSZeLarQn6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -133,11 +147,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564978855297</updated>
-      <workItem from="1564978856855" duration="6543000" />
+      <workItem from="1564978856855" duration="7707000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -8,3 +8,4 @@ class payroll extends Model
 {
     protected $table ="payroll";
 }
+//commit
