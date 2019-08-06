@@ -9,5 +9,5 @@ class daily_reports extends Model
     protected $table = "Daily_reports";
 
 
-
 }
+//commit

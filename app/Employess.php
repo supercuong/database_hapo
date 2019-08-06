@@ -20,3 +20,4 @@ class employess extends Model
         return $this->hasOne('App\payroll','Employee_id','ID');
     }
 }
+//commit

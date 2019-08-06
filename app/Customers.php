@@ -11,5 +11,5 @@ class customers extends Model
     {
         return $this->hasMany('App\projects','Customer_id','ID');
     }
-
 }
+//ccommit
